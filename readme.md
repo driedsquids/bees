@@ -2,6 +2,7 @@
 
 
 #### asdfghjk
+[zzzzzzz](./picture.png)
 
 ##### so like to make this work
 ###### you just
@@ -18,7 +19,7 @@
 - take the number  
 
 `cd /dev`  
-`/dev $ sudo mknod bees c [the number] 0`  
+`/dev $` `sudo mknod bees c [the number] 0`  
 
 and then u just  
 have bees  
