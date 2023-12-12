@@ -2,7 +2,8 @@
 
 
 #### asdfghjk
-[zzzzzzz](./picture.png)
+![zzzzzzz](./picture.png)
+
 
 ##### so like to make this work
 ###### you just
